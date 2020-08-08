@@ -4,4 +4,4 @@ while (num > 0) do
   puts "#{num}"
   num -= 1
 end
-"Happy New Year!"
+puts "Happy New Year!"
